@@ -131,10 +131,10 @@
     { "pattern": "Bla?ck.*harness", "points": 7 },
     { "pattern": "Bo?dy.*harness", "points": 7 },
     { "pattern": "Silve?r.*harness", "points": 7 },
-    { "pattern": "Heart%s?Eye", "points": 6 },
-    { "pattern": "Heart%s?Face", "points": 6 },
     { "pattern": "Love Trance Eye", "points": 7 },
 
+    { "pattern": "Heart%s?Eye", "points": 6 },
+    { "pattern": "Heart%s?Face", "points": 6 },
     { "pattern": "Dolphin%s?Short", "points": 6 },
     { "pattern": "Stockings", "points": 6 },
     { "pattern": "Pantyhose", "points": 6 },
